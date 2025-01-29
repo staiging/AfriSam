@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="6.99" height="11.98">
+    <defs>
+        <style>
+            .cls-1{fill:none;stroke:red;stroke-width:1.4px}
+        </style>
+    </defs>
+    <g id="ic_selector" transform="translate(-182.415 -25.01)">
+        <path id="down" class="cls-1" d="m158.676 26.867 3 3 3-3" transform="translate(24.234 6.133)"/>
+        <path id="up" class="cls-1" d="m158.676 29.867 3-3 3 3" transform="translate(24.234 -.867)"/>
+    </g>
+</svg>

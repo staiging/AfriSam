@@ -1,0 +1,17 @@
+<svg version="1.2" baseProfile="tiny-ps" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" width="48" height="48">
+	<title>ic-plain-red-right-arrow-svg</title>
+	<defs>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp1">
+			<path d="M0 0L48 0L48 48L0 48L0 0Z" />
+		</clipPath>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+		.shp0 { fill: #000000 } 
+	</style>
+	<g id="Clip-Path: red_arrow" clip-path="url(#cp1)">
+		<g id="red_arrow">
+			<path id="Path_1817" class="shp0" d="M0 22L0 26L40 26L29 37L32 40L48 24L32 8L29 11L40 22L0 22Z" />
+		</g>
+	</g>
+</svg>

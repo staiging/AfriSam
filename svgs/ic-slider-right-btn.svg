@@ -1,0 +1,11 @@
+<svg version="1.2" baseProfile="tiny-ps" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 14 14" width="14" height="14">
+	<title>ic-slider-right-btn-svg</title>
+	<style>
+		tspan { white-space:pre }
+		.shp0 { fill: none;stroke: #ff0000 } 
+	</style>
+	<g id="Layer">
+		<path id="Layer" class="shp0" d="M2 7L11 7" />
+		<path id="Layer" class="shp0" d="M8 10L11 7L8 4" />
+	</g>
+</svg>

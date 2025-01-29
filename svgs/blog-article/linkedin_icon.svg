@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24">
+    <defs>
+        <style>
+            .cls-2{fill:#6d6f72}
+        </style>
+    </defs>
+    <g id="linkedin_icon" transform="translate(-84 -1240)">
+        <circle id="Ellipse_20" data-name="Ellipse 20" cx="12" cy="12" r="12" transform="translate(84 1240)" style="fill:#f3f5f8"/>
+        <g id="LinkedIn" transform="translate(-645.342 1102.938)">
+            <path id="Rectangle_52" data-name="Rectangle 52" class="cls-2" transform="translate(736.595 147.269)" d="M0 0h1.949v6.793H0z"/>
+            <path id="Path_878" data-name="Path 878" class="cls-2" d="M752.989 154.6a1.98 1.98 0 0 0-1.946 1.132v-1.066h-2.189c.028.566 0 6.793 0 6.793h2.189v-3.679a1.7 1.7 0 0 1 .048-.555 1.133 1.133 0 0 1 1.055-.832c.76 0 1.106.628 1.106 1.548v3.515h2.21v-3.777c.001-2.105-1.088-3.079-2.473-3.079z" transform="translate(-9.12 -7.394)"/>
+            <path id="Path_879" data-name="Path 879" class="cls-2" d="M737.534 144.062a1.179 1.179 0 0 0-.028 2.357h.014a1.179 1.179 0 1 0 .014-2.357z"/>
+        </g>
+    </g>
+</svg>

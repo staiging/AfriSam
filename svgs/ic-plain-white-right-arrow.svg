@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="48" height="48" viewBox="0 0 48 48">
+  <defs>
+    <clipPath id="clip-white_arrow">
+      <rect width="48" height="48"/>
+    </clipPath>
+  </defs>
+  <g id="white_arrow" data-name="white arrow" clip-path="url(#clip-white_arrow)">
+    <path id="Path_1817" data-name="Path 1817" d="M5821-20660v4h40l-11,11,3,3,16-16-16-16-3,3,11,11Z" transform="translate(-5821 20682)" fill="#fff"/>
+  </g>
+</svg>
