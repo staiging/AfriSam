@@ -1,0 +1,10 @@
+@font-face {
+  font-family: 'Frutiger-LT-Std-55-Roman';
+  src: url('../fonts/Frutiger-LT-Std-55-Roman_18821.woff2') format('woff2'),
+       url('../fonts/Frutiger-LT-Std-55-Roman_18821.woff') format('woff'),
+       url('../fonts/Frutiger-LT-Std-55-Roman_18821.ttf')  format('truetype');
+}
+
+body {
+  font-family: 'Frutiger-LT-Std-55-Roman_18821', sans-serif;
+}
